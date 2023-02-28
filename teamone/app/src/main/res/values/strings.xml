@@ -1,3 +1,4 @@
 <resources>
-    <string name="app_name">Teamone</string>
+    <string name="app_name">team one</string>
+    <string name="first_page">Login Page</string>
 </resources>
